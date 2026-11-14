@@ -1,0 +1,18 @@
+{
+    "ControllerSettings": {
+        "DirectInputFallback": 1,
+        "PollingRateHz": 500,
+        "ForceXInput": true
+    },
+    "Mappings": {
+        "Pass": "Button_A",
+        "Shoot": "Right_Stick_Up",
+        "Hit": "Right_Stick_Down",
+        "Hustle": "Left_Stick_Click",
+        "SwitchPlayer": "Right_Trigger"
+    },
+    "Haptics": {
+        "VibrationEnabled": true,
+        "IntensityMultiplier": 0.8
+    }
+}
