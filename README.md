@@ -1,5 +1,7 @@
 # FrostBridge: NHL 24 PC Port 
 
+
+
 | | |
 |---|---|
 | **Video** | [▶ Watch NHL 24 running on PC (RTX 3050 Test) – YouTube](https://www.youtube.com/watch?v=E8thrwOODqQ) 
