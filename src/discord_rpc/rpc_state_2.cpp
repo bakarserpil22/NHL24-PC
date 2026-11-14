@@ -1,0 +1,1 @@
+// Discord RPC state machine updates

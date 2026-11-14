@@ -1,0 +1,1 @@
+// libSceNp export resolution table

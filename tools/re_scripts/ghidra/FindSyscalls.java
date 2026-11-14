@@ -1,0 +1,1 @@
+// Ghidra script to locate Orbis OS syscall stubs

@@ -1,0 +1,1 @@
+// libSceVideoDec export resolution table

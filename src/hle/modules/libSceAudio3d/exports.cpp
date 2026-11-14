@@ -1,0 +1,1 @@
+// libSceAudio3d export resolution table

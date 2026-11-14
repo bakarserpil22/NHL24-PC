@@ -1,0 +1,1 @@
+// libSceNgs2 export resolution table

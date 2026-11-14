@@ -1,0 +1,1 @@
+// Translates RAWINPUT to DualShock 4 state
